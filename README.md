@@ -1,3 +1,6 @@
+Agustin Vera
+
+
 El proyecto Sistema de Gestión Forestal implementa una arquitectura orientada a objetos basada en patrones de diseño para la administración de plantaciones agrícolas y forestales.
 El sistema permite crear distintas plantaciones, registrar cultivos y gestionar el riego de forma automatizada a partir de lecturas de sensores de temperatura y humedad. La simulación demuestra cómo cada componente del sistema interactúa siguiendo principios de diseño reutilizable, mantenible y extensible
 
